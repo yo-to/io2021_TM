@@ -1,8 +1,10 @@
-# 2021年の月刊 I/O の連載関連
+# 2021年の月刊 I/O での連載関連
 このリポジトリは、2021年の月刊 I/O に掲載された連載に関する情報を記載したページです。  
 ※連載は [Teachable Machine](https://teachablemachine.withgoogle.com/) に関するもの
 
 ## 連載：第1回（[月刊 I/O 2021年 08 月号（※2021年7月発売）](https://www.kohgakusha.co.jp/io/)）
+　第1回目の記事では、Teachable Machine の概要を紹介しました。
+ 以下では、その Teachable Machine に関わる公式サンプルや、その使い方について書かれた記事を一部ですが紹介します。
 
 ### 公式の JavaScript用サンプルに関する URL
 
