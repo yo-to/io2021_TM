@@ -9,8 +9,7 @@
 ### 公式の JavaScript用サンプルに関する URL
 
 - [JavaScript用サンプル](https://github.com/googlecreativelab/teachablemachine-community/blob/master/snippets/markdown/image/tensorflowjs/javascript.md)
-- [上記サンプルを転記したもの（2021年5月時点、バックアップ用）]()
-   - 【公開用】 https://github.com/yo-to/io2021_TM/blob/main/2021_TM1/sample.md 
+- [上記サンプルを転記したもの（2021年5月時点、バックアップ用）](https://github.com/yo-to/io2021_TM/blob/main/2021_TM1/sample.md)
 - [概要説明（英語）を含んだもの](https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image)
 
 ## 公式以外の参考情報の事例
