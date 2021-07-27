@@ -25,3 +25,12 @@
    - [Teachable Machineとenebularで簡単機械学習！画像判別ボットを作ってみた - 虎の穴開発室ブログ](https://toranoana-lab.hatenablog.com/entry/2020/12/08/090000)
 - Scratch に独自拡張が加えられた非公式環境
    - [ScratchとAIでゲームをつくろう | 30分でつくれる子どもプログラミングレシピ Kids Code Club](https://kidsc2.org/recipes/44/chapters) 
+
+## 連載：第2回（月刊 I/O 2021年 09 月号（※2021年8月発売））
+　【後ほど追記】
+
+## 連載：第3回（月刊 I/O 2021年 10 月号（※2021年9月発売））
+　【後ほど追記】
+ 
+## 連載：第4回（月刊 I/O 2021年 11 月号（※2021年10月発売））
+　【後ほど追記】
