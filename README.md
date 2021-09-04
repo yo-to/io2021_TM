@@ -26,7 +26,7 @@
 - Scratch に独自拡張が加えられた非公式環境
    - [ScratchとAIでゲームをつくろう | 30分でつくれる子どもプログラミングレシピ Kids Code Club](https://kidsc2.org/recipes/44/chapters) 
 
-## 連載：第2回（[月刊 I/O 2021年 09 月号（※2021年8月発売）[(http://www.kohgakusha.co.jp/books/detail/4674)）
+## 連載：第2回（[月刊 I/O 2021年 09 月号（※2021年8月発売）](http://www.kohgakusha.co.jp/books/detail/4674)）
 ### Teachable Machine関連の情報を探す手がかり
 Web上で Teachable Machine関連の情報を探す際の手がかりになる情報の一部を記載します
 
