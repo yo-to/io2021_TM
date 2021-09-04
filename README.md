@@ -26,8 +26,18 @@
 - Scratch に独自拡張が加えられた非公式環境
    - [ScratchとAIでゲームをつくろう | 30分でつくれる子どもプログラミングレシピ Kids Code Club](https://kidsc2.org/recipes/44/chapters) 
 
-## 連載：第2回（月刊 I/O 2021年 09 月号（※2021年8月発売））
-　【後ほど追記】
+## 連載：第2回（[月刊 I/O 2021年 09 月号（※2021年8月発売）[(http://www.kohgakusha.co.jp/books/detail/4674)）
+### Teachable Machine関連の情報を探す手がかり
+Web上で Teachable Machine関連の情報を探す際の手がかりになる情報の一部を記載します
+
+- [Qiita の Teachable Machine 用タグ](https://qiita.com/tags/teachablemachine)
+- [Teachable Machine Community（英語）](https://github.com/googlecreativelab/teachablemachine-community)
+
+### 音声を対象にした Teachable Machine の利用事例
+
+- 音声
+   - [「Teachable Machine」で機械学習した音声認識データを使って「Scratch」でプログラミング ～拡張機能「TM2Scratch」を専用の「Scratch」で - どれ使う？プログラミング教育ツール - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
+   - [独自拡張版 Scratch で Teachable Machine拡張を使った音（異なる音階）でのロボットカー操作 - Qiita](https://qiita.com/youtoy/items/d67ba4e6e457b037068b)
 
 ## 連載：第3回（月刊 I/O 2021年 10 月号（※2021年9月発売））
 　【後ほど追記】
