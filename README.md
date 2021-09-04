@@ -33,11 +33,14 @@ Web上で Teachable Machine関連の情報を探す際の手がかりになる�
 - [Qiita の Teachable Machine 用タグ](https://qiita.com/tags/teachablemachine)
 - [Teachable Machine Community（英語）](https://github.com/googlecreativelab/teachablemachine-community)
 
+### Teachable Machine の画像プロジェクトの出力形式に関する情報
+
+- [Teachable Machine の機械学習モデル出力に関するメモ 〜画像プロジェクト編〜【2021年5月版】 - Qiita](https://qiita.com/youtoy/items/685d97e0acc5cfc184c0)
+
 ### 音声を対象にした Teachable Machine の利用事例
 
-- 音声
-   - [「Teachable Machine」で機械学習した音声認識データを使って「Scratch」でプログラミング ～拡張機能「TM2Scratch」を専用の「Scratch」で - どれ使う？プログラミング教育ツール - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
-   - [独自拡張版 Scratch で Teachable Machine拡張を使った音（異なる音階）でのロボットカー操作 - Qiita](https://qiita.com/youtoy/items/d67ba4e6e457b037068b)
+- [「Teachable Machine」で機械学習した音声認識データを使って「Scratch」でプログラミング ～拡張機能「TM2Scratch」を専用の「Scratch」で - どれ使う？プログラミング教育ツール - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
+- [独自拡張版 Scratch で Teachable Machine拡張を使った音（異なる音階）でのロボットカー操作 - Qiita](https://qiita.com/youtoy/items/d67ba4e6e457b037068b)
 
 ## 連載：第3回（月刊 I/O 2021年 10 月号（※2021年9月発売））
 　【後ほど追記】
