@@ -42,14 +42,14 @@ Web上で Teachable Machine関連の情報を探す際の手がかりになる�
 - [「Teachable Machine」で機械学習した音声認識データを使って「Scratch」でプログラミング ～拡張機能「TM2Scratch」を専用の「Scratch」で - どれ使う？プログラミング教育ツール - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
 - [独自拡張版 Scratch で Teachable Machine拡張を使った音（異なる音階）でのロボットカー操作 - Qiita](https://qiita.com/youtoy/items/d67ba4e6e457b037068b)
 
-## 連載：第3回（月刊 I/O 2021年 10 月号（※2021年9月発売））
+## 連載：第3回（[月刊 I/O 2021年 10 月号（※2021年9月発売）](http://www.kohgakusha.co.jp/books/detail/4680)）
 
 ### Teachable Machine（画像プロジェクト）の p5.js 用サンプル
 
 - [p5.js Web Editor上で公開されている公式サンプル](https://editor.p5js.org/ml5/sketches/ImageModel_TM)
 - [上記公式サンプルのバックアップ（2021/9/4 時点）](https://editor.p5js.org/toyota_ref/sketches/Fn9fVg4IF)
  
-## 連載：第4回（月刊 I/O 2021年 11 月号（※2021年10月発売））
+## 連載：第4回（[月刊 I/O 2021年 11 月号（※2021年10月発売）](http://www.kohgakusha.co.jp/books/detail/4685)）
 
 ### 第4回の記事で扱ったプログラム
 以下の 2つのプログラム内で、Teachable Machine の機械学習モデルの URL を指定している部分は、ご自身のものを記載してください
