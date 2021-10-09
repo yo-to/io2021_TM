@@ -44,8 +44,16 @@ Web上で Teachable Machine関連の情報を探す際の手がかりになる�
 
 ## 連載：第3回（月刊 I/O 2021年 10 月号（※2021年9月発売））
 
+### Teachable Machine（画像プロジェクト）の p5.js 用サンプル
+
 - [p5.js Web Editor上で公開されている公式サンプル](https://editor.p5js.org/ml5/sketches/ImageModel_TM)
 - [上記公式サンプルのバックアップ（2021/9/4 時点）](https://editor.p5js.org/toyota_ref/sketches/Fn9fVg4IF)
  
 ## 連載：第4回（月刊 I/O 2021年 11 月号（※2021年10月発売））
-　【後ほど追記】
+
+### 第4回の記事で扱ったプログラム
+以下の 2つのプログラム内で、Teachable Machine の機械学習モデルの URL を指定している部分は、ご自身のものを記載してください
+
+- プログラムの例
+   - [1）位置が変わる（移動する場所は 3箇所）](https://editor.p5js.org/ml5/sketches/ImageModel_TM)
+   - [2）円が少しずつ動く）](https://editor.p5js.org/toyota_ref/sketches/Fn9fVg4IF)
