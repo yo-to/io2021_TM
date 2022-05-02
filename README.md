@@ -55,5 +55,5 @@ Web上で Teachable Machine関連の情報を探す際の手がかりになる�
 以下の 2つのプログラム内で、Teachable Machine の機械学習モデルの URL を指定している部分は、ご自身のものを記載してください
 
 - プログラムの例
-   - [1）位置が変わる（移動する場所は 3箇所）](https://editor.p5js.org/ml5/sketches/ImageModel_TM)
-   - [2）円が少しずつ動く）](https://editor.p5js.org/toyota_ref/sketches/Fn9fVg4IF)
+   - [1）位置が変わる（移動する場所は 3箇所）](https://editor.p5js.org/toyota_ref/sketches/u9I8IbIWm)
+   - [2）円が少しずつ動く）](https://editor.p5js.org/toyota_ref/sketches/PJ5oiPv-S)
